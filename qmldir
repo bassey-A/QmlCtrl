@@ -1,0 +1,5 @@
+module QmlCtrl
+typeinfo appQmlCtrl.qmltypes
+prefer :/qt/qml/QmlCtrl/
+Main 1.0 Main.qml
+
